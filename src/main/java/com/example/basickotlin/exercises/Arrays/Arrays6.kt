@@ -1,5 +1,3 @@
-import android.R
-
 fun main(){
     var num = arrayOf(2, 5, 8, 11, 14, 17)
     var cont: Int = 0

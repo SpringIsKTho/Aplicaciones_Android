@@ -1,4 +1,4 @@
-package com.example.basickotlin.exercises
+package com.example.basickotlin.exercises.Arrays
 
 fun main(){
     var num = intArrayOf(3, 7, 1, 9)
